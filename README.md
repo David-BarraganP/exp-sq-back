@@ -22,7 +22,7 @@ Este es un template básico para un servidor Express con sequelize con configura
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/Generacion-32/exp-sq-g32.git <NOMBRE_DEL_PROYECTO>
+https://github.com/David-BarraganP/exp-sq-back.git <NOMBRE_DEL_PROYECTO>
 cd <NOMBRE_DEL_PROYECTO>
 
 ```
